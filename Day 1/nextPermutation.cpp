@@ -3,7 +3,7 @@ public:
     void nextPermutation(vector<int>& nums) {
         int n = nums.size(), i = n-2;
         while(i >= 0) {
-            if(nums[+1] > nums[i]) break;
+            if(nums[i+1] > nums[i]) break;
             i--;
         }
         if(i == -1) {
