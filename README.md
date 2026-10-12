@@ -12,3 +12,8 @@ Daily practice around DSA. All of these problems I solve are from TakeUForward s
 | 1 | Next Permutation | [31](https://leetcode.com/problems/next-permutation/) | [nextPermutation.cpp](Day%201/nextPermutation.cpp) | Find pivot, swap, reverse suffix |
 | 1 | Sort Colors | [75](https://leetcode.com/problems/sort-colors/) | [sortArray012.cpp](Day%201/sortArray012.cpp) | Dutch national flag |
 | 1 | 3Sum | [15](https://leetcode.com/problems/3sum/) | [ThreeSum.cpp](Day%201/ThreeSum.cpp) | Sort + two pointers |
+| 3 | Find Peak Element | [162](https://leetcode.com/problems/find-peak-element/) | [findPeakElement1dArray.cpp](Day%203/findPeakElement1dArray.cpp) | Walk uphill from the middle |
+| 3 | Find Minimum in Rotated Sorted Array | [153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [minimumInRotatedSortedArray.cpp](Day%203/minimumInRotatedSortedArray.cpp) | Binary search on the rotation point |
+| 3 | Search a 2D Matrix II | [240](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [searchIn2dSortedMatrix.cpp](Day%203/searchIn2dSortedMatrix.cpp) | Staircase search from top-right |
+| 3 | Search in Rotated Sorted Array II | [81](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [searchInRotatedSortedArrayII.cpp](Day%203/searchInRotatedSortedArrayII.cpp) | Binary search, shrink on duplicates |
+| 3 | Single Element in a Sorted Array | [540](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [singleOccuerenceNumberInBetweenDuplicates.cpp](Day%203/singleOccuerenceNumberInBetweenDuplicates.cpp) | Binary search on index parity |
