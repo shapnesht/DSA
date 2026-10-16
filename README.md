@@ -18,7 +18,7 @@ Daily practice around DSA. All of these problems I solve are from TakeUForward s
 | 3 | Search in Rotated Sorted Array II | [81](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [searchInRotatedSortedArrayII.cpp](Day%203/searchInRotatedSortedArrayII.cpp) | Binary search, shrink on duplicates |
 | 3 | Single Element in a Sorted Array | [540](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [singleOccuerenceNumberInBetweenDuplicates.cpp](Day%203/singleOccuerenceNumberInBetweenDuplicates.cpp) | Binary search on index parity |
 | 3 | Nth Root of a Number | — | [NthRootOfaNumber.cpp](Day%203/NthRootOfaNumber.cpp) | Binary search on the answer |
-| 4 | Koko Eating Bananas | [875](https://leetcode.com/problems/koko-eating-bananas/) | [kokoEatingBananas.cpp](kokoEatingBananas.cpp) | Binary search on eating rate |
-| 4 | Aggressive Cows | — (similar: [1552](https://leetcode.com/problems/magnetic-force-between-two-balls/)) | [aggresiveCows.cpp](aggresiveCows.cpp) | Binary search on minimum distance |
-| 4 | Book Allocation | — (similar: [410](https://leetcode.com/problems/split-array-largest-sum/)) | [bookAllocation.cpp](bookAllocation.cpp) | Binary search on max pages |
-| 4 | Median in a Row-Wise Sorted Matrix | — | [medianInRowSortedMatrix.cpp](medianInRowSortedMatrix.cpp) | Binary search on value, count with upper bound per row |
+| 4 | Koko Eating Bananas | [875](https://leetcode.com/problems/koko-eating-bananas/) | [kokoEatingBananas.cpp](Day%204/kokoEatingBananas.cpp) | Binary search on eating rate |
+| 4 | Aggressive Cows | — (similar: [1552](https://leetcode.com/problems/magnetic-force-between-two-balls/)) | [aggresiveCows.cpp](Day%204/aggresiveCows.cpp) | Binary search on minimum distance |
+| 4 | Book Allocation | — (similar: [410](https://leetcode.com/problems/split-array-largest-sum/)) | [bookAllocation.cpp](Day%204/bookAllocation.cpp) | Binary search on max pages |
+| 4 | Median in a Row-Wise Sorted Matrix | — | [medianInRowSortedMatrix.cpp](Day%204/medianInRowSortedMatrix.cpp) | Binary search on value, count with upper bound per row |
