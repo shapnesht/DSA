@@ -22,3 +22,6 @@ Daily practice around DSA. All of these problems I solve are from TakeUForward s
 | 4 | Aggressive Cows | — (similar: [1552](https://leetcode.com/problems/magnetic-force-between-two-balls/)) | [aggresiveCows.cpp](Day%204/aggresiveCows.cpp) | Binary search on minimum distance |
 | 4 | Book Allocation | — (similar: [410](https://leetcode.com/problems/split-array-largest-sum/)) | [bookAllocation.cpp](Day%204/bookAllocation.cpp) | Binary search on max pages |
 | 4 | Median in a Row-Wise Sorted Matrix | — | [medianInRowSortedMatrix.cpp](Day%204/medianInRowSortedMatrix.cpp) | Binary search on value, count with upper bound per row |
+| 5 | Median of Two Sorted Arrays | [4](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [medianOf2SortedArrays.cpp](Day%205/medianOf2SortedArrays.cpp) | Binary search on partition of the smaller array |
+| 5 | K-th Element of Two Sorted Arrays | — | [kthElementOf2SortedArrays.cpp](Day%205/kthElementOf2SortedArrays.cpp) | Binary search on partition with bounded range |
+| 5 | Longest Substring Without Repeating Characters | [3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [longestSubstringWithoutRepeatingChars.cpp](Day%205/longestSubstringWithoutRepeatingChars.cpp) | Sliding window |
