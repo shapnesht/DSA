@@ -25,3 +25,5 @@ Daily practice around DSA. All of these problems I solve are from TakeUForward s
 | 5 | Median of Two Sorted Arrays | [4](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [medianOf2SortedArrays.cpp](Day%205/medianOf2SortedArrays.cpp) | Binary search on partition of the smaller array |
 | 5 | K-th Element of Two Sorted Arrays | — | [kthElementOf2SortedArrays.cpp](Day%205/kthElementOf2SortedArrays.cpp) | Binary search on partition with bounded range |
 | 5 | Longest Substring Without Repeating Characters | [3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [longestSubstringWithoutRepeatingChars.cpp](Day%205/longestSubstringWithoutRepeatingChars.cpp) | Sliding window |
+| 5 | 4Sum | [18](https://leetcode.com/problems/4sum/) | [4Sum.cpp](Day%205/4Sum.cpp) | Sort + two fixed + two pointers |
+| 5 | Maximum Points You Can Obtain from Cards | [1423](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [maximumPointsFromCardsFromFrontAndBack.cpp](Day%205/maximumPointsFromCardsFromFrontAndBack.cpp) | Sliding window: total minus minimum window of n-k |
