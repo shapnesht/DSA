@@ -27,3 +27,8 @@ Daily practice around DSA. All of these problems I solve are from TakeUForward s
 | 5 | Longest Substring Without Repeating Characters | [3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [longestSubstringWithoutRepeatingChars.cpp](Day%205/longestSubstringWithoutRepeatingChars.cpp) | Sliding window |
 | 5 | 4Sum | [18](https://leetcode.com/problems/4sum/) | [4Sum.cpp](Day%205/4Sum.cpp) | Sort + two fixed + two pointers |
 | 5 | Maximum Points You Can Obtain from Cards | [1423](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [maximumPointsFromCardsFromFrontAndBack.cpp](Day%205/maximumPointsFromCardsFromFrontAndBack.cpp) | Sliding window: total minus minimum window of n-k |
+| 6 | Two Sum | [1](https://leetcode.com/problems/two-sum/) | [2Sum.cpp](Day%206/2Sum.cpp) | Hash map of seen values |
+| 6 | Find Peak Element | [162](https://leetcode.com/problems/find-peak-element/) | [findPeakElement.cpp](Day%206/findPeakElement.cpp) | Walk uphill from the middle (same as Day 3) |
+| 6 | Longest Subarray with Sum K | — (similar: [325](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)) | [longestSubarrayWithSumK.cpp](Day%206/longestSubarrayWithSumK.cpp) | TODO: file currently holds Find Peak Element code |
+| 6 | Merge Sorted Array | [88](https://leetcode.com/problems/merge-sorted-array/) | [merge2SortedArrays.cpp](Day%206/merge2SortedArrays.cpp) | Two pointers from the back |
+| 6 | Trapping Rain Water | [42](https://leetcode.com/problems/trapping-rain-water/) | [trappingRainwater.cpp](Day%206/trappingRainwater.cpp) | Two pointers with running left/right max |
