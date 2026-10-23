@@ -40,3 +40,7 @@ Daily practice around DSA. All of these problems I solve are from TakeUForward s
 | 8 | Longest Substring with K Distinct Characters | — (similar: [340](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)) | [longestSubstringWithKdistinctChars.cpp](Day%208/longestSubstringWithKdistinctChars.cpp) | Sliding window with frequency map |
 | 8 | Max Consecutive Ones III | [1004](https://leetcode.com/problems/max-consecutive-ones-iii/) | [maxConsecutiveOnesIII.cpp](Day%208/maxConsecutiveOnesIII.cpp) | Sliding window, at most k zeros |
 | 8 | Minimum Window Substring | [76](https://leetcode.com/problems/minimum-window-substring/) | [maxWindowSubstring.cpp](Day%208/maxWindowSubstring.cpp) | Sliding window with character counts |
+| 9 | Combination Sum | [39](https://leetcode.com/problems/combination-sum/) | [combinationSum.cpp](Day%209/combinationSum.cpp) | Backtracking, pick or skip with reuse |
+| 9 | Combination Sum II | [40](https://leetcode.com/problems/combination-sum-ii/) | [combinationSumII.cpp](Day%209/combinationSumII.cpp) | Backtracking on sorted input, skip duplicates |
+| 9 | Letter Combinations of a Phone Number | [17](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [generateNumbersFromMobile.cpp](Day%209/generateNumbersFromMobile.cpp) | Backtracking over digit-to-letter map |
+| 9 | Generate Parentheses | [22](https://leetcode.com/problems/generate-parentheses/) | [generateParentheses.cpp](Day%209/generateParentheses.cpp) | Backtracking with open/close counts |
