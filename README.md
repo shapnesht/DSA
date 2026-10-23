@@ -37,3 +37,6 @@ Daily practice around DSA. All of these problems I solve are from TakeUForward s
 | 7 | Subarray Sum Equals K | [560](https://leetcode.com/problems/subarray-sum-equals-k/) | [countSubarraysWithGivenSum.cpp](Day%207/countSubarraysWithGivenSum.cpp) | Prefix sum + frequency map |
 | 7 | Longest Consecutive Sequence | [128](https://leetcode.com/problems/longest-consecutive-sequence/) | [longestConsecutiveIntegers.cpp](Day%207/longestConsecutiveIntegers.cpp) | Hash set, start only at sequence beginnings |
 | 7 | Reverse Pairs | [493](https://leetcode.com/problems/reverse-pairs/) | [reversePairs.cpp](Day%207/reversePairs.cpp) | Merge sort, count pairs before merging |
+| 8 | Longest Substring with K Distinct Characters | — (similar: [340](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)) | [longestSubstringWithKdistinctChars.cpp](Day%208/longestSubstringWithKdistinctChars.cpp) | Sliding window with frequency map |
+| 8 | Max Consecutive Ones III | [1004](https://leetcode.com/problems/max-consecutive-ones-iii/) | [maxConsecutiveOnesIII.cpp](Day%208/maxConsecutiveOnesIII.cpp) | Sliding window, at most k zeros |
+| 8 | Minimum Window Substring | [76](https://leetcode.com/problems/minimum-window-substring/) | [maxWindowSubstring.cpp](Day%208/maxWindowSubstring.cpp) | Sliding window with character counts |
