@@ -44,3 +44,8 @@ Daily practice around DSA. All of these problems I solve are from TakeUForward s
 | 9 | Combination Sum II | [40](https://leetcode.com/problems/combination-sum-ii/) | [combinationSumII.cpp](Day%209/combinationSumII.cpp) | Backtracking on sorted input, skip duplicates |
 | 9 | Letter Combinations of a Phone Number | [17](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [generateNumbersFromMobile.cpp](Day%209/generateNumbersFromMobile.cpp) | Backtracking over digit-to-letter map |
 | 9 | Generate Parentheses | [22](https://leetcode.com/problems/generate-parentheses/) | [generateParentheses.cpp](Day%209/generateParentheses.cpp) | Backtracking with open/close counts |
+| 9 | Palindrome Partitioning | [131](https://leetcode.com/problems/palindrome-partitioning/) | [palindromicPartition.cpp](Day%209/palindromicPartition.cpp) | Backtracking, build and check palindromic pieces |
+| 9 | Subsets II | [90](https://leetcode.com/problems/subsets-ii/) | [subsetsII.cpp](Day%209/subsetsII.cpp) | TODO: file currently holds Trapping Rain Water code |
+| 10 | N-Queens | [51](https://leetcode.com/problems/n-queens/) | [nQueen.cpp](Day%2010/nQueen.cpp) | Backtracking row by row with safety scan |
+| 10 | Sudoku Solver | [37](https://leetcode.com/problems/sudoku-solver/) | [sudokuSolver.cpp](Day%2010/sudokuSolver.cpp) | Backtracking on empty cells |
+| 10 | Word Search | [79](https://leetcode.com/problems/word-search/) | [wordSearch.cpp](Day%2010/wordSearch.cpp) | DFS backtracking with visited grid |
